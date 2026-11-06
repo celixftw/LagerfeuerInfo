@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: LagerfeuerInfo
+## Notes: Zeigt im Tooltip, was Lagerfeuer und Lagerobjekte bringen (deutsch). /lagerfeuer
+## Author: Niki
+## Version: 1.0
+## SavedVariables: LagerfeuerInfoDB
+
+LagerfeuerInfo.lua
